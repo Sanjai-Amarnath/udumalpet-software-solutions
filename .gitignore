@@ -3,7 +3,7 @@ dist/
 target/
 .env
 .env.local
+atlas-credentials.env
 .idea/
 .vscode/
 *.log
-
